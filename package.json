@@ -1,0 +1,15 @@
+{
+  "name": "football-1",
+  "theme": "syntax",
+  "version": "0.1.1",
+  "description": "football-1 เว็บบอลน่าเชื่อถือ เว็บบอลออนไลน์ ufabet เว็บตรง ไม่ผ่านเอเย่นต์ ให้บริการยุติธรรม เว็บบอล อันดับ 1 ในไทย",
+  "keywords": [
+    "football-1",
+    "เว็บบอลน่าเชื่อถือ เว็บบอลออนไลน์ ufabet เว็บตรง ไม่ผ่านเอเย่นต์ ให้บริการยุติธรรม เว็บบอล อันดับ 1 ในไทย"
+  ],
+  "repository": "https://github.com/casino747/football-1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
